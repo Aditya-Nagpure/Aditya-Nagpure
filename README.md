@@ -17,7 +17,7 @@ I'm a tech-savvy developer passionate about building intelligent systems using A
 - 🧑‍💻 GitHub: [@adi-ngp](https://github.com/aditya-nagpure)
 
 ## 🛠️ Projects (Pinned Repos)
-- 💸 **Custom LLM ChatBot ** – Real-time chatbot with context-aware insights
+- 💸 **Custom LLM ChatBot** – Real-time chatbot with context-aware insights
 - ⚙️ **RAG BASED Q&A ON PRIVATE DOCUMENTS** - RAG Pipeline for natural language querying over private documents
 - 🖼️ **Video SRGAN** – Super-resolution for videos using ESRGAN on Colab
 
