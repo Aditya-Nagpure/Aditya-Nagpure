@@ -13,7 +13,6 @@ I'm a tech-savvy developer passionate about building intelligent systems using A
 ## 🔗 Find Me Here
 - 🧠 LeetCode: [Your Profile](https://leetcode.com/u/_adityanagpure_/)
 - 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/aditya-nagpure-a69924220/)
-- 📝 Medium: [Your Blog](https://medium.com/@adinagpure.9)
 - 🧑‍💻 GitHub: [@adi-ngp](https://github.com/aditya-nagpure)
 
 ## 🛠️ Projects (Pinned Repos)
