@@ -3,10 +3,10 @@
 I'm a tech-savvy developer passionate about building intelligent systems using AI, LLMs, and scalable cloud-native architectures.
 
 ## 💼 What I Work On
-🤖 Designing and deploying real-time LLM applications
-🔍 Building RAG pipelines for semantic search and knowledge systems
-📊 Working with multimodal data (text, graphs, video)
-☁️ Shipping cloud-native systems on AWS & Azure
+- 🤖 Designing and deploying real-time LLM applications.
+- 🔍 Building RAG pipelines for semantic search and knowledge systems.
+- 📊 Working with multimodal data (text, graphs, video).
+- ☁️ Shipping cloud-native systems on AWS & Azure.
 
 ## 🧠 Skills
 `Python` `LLMs` `RAG` `PyTorch` `TensorFlow` `ChromaDB` `OpenAI API` `PostgreSQL` `AZURE VM` `Java` `Linux` `AWS` `LangChain` 
