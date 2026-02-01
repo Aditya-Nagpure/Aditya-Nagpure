@@ -2,25 +2,19 @@
 
 I'm a tech-savvy developer passionate about building intelligent systems using AI, LLMs, and scalable cloud-native architectures.
 
-## 💼 What I Do
-- 🔍 Building real-time LLM-powered applications using LangChain
-- 📊 Working with multimodal data (text, graphs, video)
+## 💼 What I Work On
+🤖 Designing and deploying real-time LLM applications
+🔍 Building RAG pipelines for semantic search and knowledge systems
+📊 Working with multimodal data (text, graphs, video)
+☁️ Shipping cloud-native systems on AWS & Azure
 
 ## 🧠 Skills
-`Java` `Python` `LLM` `LangChain` `PyTorch` `Pinecone` `OpenAI API`  
-`TensorFlow` `LangGraph` `LangSmith` `AWS`
+`Python` `LLMs` `RAG` `PyTorch` `TensorFlow` `ChromaDB` `OpenAI API` `PostgreSQL` `AZURE VM` `Java` `Linux` `AWS` `LangChain` 
 
 ## 🔗 Find Me Here
 - 🧠 LeetCode: [Your Profile](https://leetcode.com/u/_adityanagpure_/)
 - 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/aditya-nagpure-a69924220/)
 - 🧑‍💻 GitHub: [@adi-ngp](https://github.com/aditya-nagpure)
-
-## 🛠️ Projects (Pinned Repos)
-- 💸 **Custom LLM ChatBot** – Real-time chatbot with context-aware insights
-- ⚙️ **RAG BASED Q&A ON PRIVATE DOCUMENTS** - RAG Pipeline for natural language querying over private documents
-- 🖼️ **Video SRGAN** – Super-resolution for videos using ESRGAN on Colab
-
----
 
 _Always building. Always learning. Let's connect!_
 
